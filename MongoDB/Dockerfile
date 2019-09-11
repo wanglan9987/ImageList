@@ -1,6 +1,6 @@
 # Docker image of hbase cluster
 # VERSION 0.0.1
-# Author: bolingcavalry
+# Author: HYZX
 
 #基础镜像使用ubuntu16.04
 FROM ubuntu:16.04
